@@ -21,6 +21,7 @@
 		2DE413C3225141B000B4DA55 /* EnemyNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DE413C2225141B000B4DA55 /* EnemyNode.swift */; };
 		2DE413C62251494800B4DA55 /* waves.json in Resources */ = {isa = PBXBuildFile; fileRef = 2DE413C42251494800B4DA55 /* waves.json */; };
 		2DE413C72251494800B4DA55 /* enemy-types.json in Resources */ = {isa = PBXBuildFile; fileRef = 2DE413C52251494800B4DA55 /* enemy-types.json */; };
+		2DE413C922515B5B00B4DA55 /* Explosion.sks in Resources */ = {isa = PBXBuildFile; fileRef = 2DE413C822515B5B00B4DA55 /* Explosion.sks */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +41,7 @@
 		2DE413C2225141B000B4DA55 /* EnemyNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnemyNode.swift; sourceTree = "<group>"; };
 		2DE413C42251494800B4DA55 /* waves.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = waves.json; sourceTree = "<group>"; };
 		2DE413C52251494800B4DA55 /* enemy-types.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "enemy-types.json"; sourceTree = "<group>"; };
+		2DE413C822515B5B00B4DA55 /* Explosion.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Explosion.sks; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,7 +77,7 @@
 				2DE4139E22513A0000B4DA55 /* AppDelegate.swift */,
 				2DE413A022513A0000B4DA55 /* GameScene.sks */,
 				2DE413A422513A0000B4DA55 /* GameScene.swift */,
-				2DE413C2225141B000B4DA55 /* EnemyNode.swift */,
+				2DE413C822515B5B00B4DA55 /* Explosion.sks */,
 				2DE413A622513A0000B4DA55 /* GameViewController.swift */,
 				2DE413A822513A0000B4DA55 /* Main.storyboard */,
 				2DE413AB22513A0300B4DA55 /* Assets.xcassets */,
@@ -83,6 +85,7 @@
 				2DE413AD22513A0300B4DA55 /* LaunchScreen.storyboard */,
 				2DE413B022513A0300B4DA55 /* Info.plist */,
 				2DE413BC22513F4C00B4DA55 /* EnemyType.swift */,
+				2DE413C2225141B000B4DA55 /* EnemyNode.swift */,
 				2DE413BE22513F8900B4DA55 /* Wave.swift */,
 				2DE413C022513FF600B4DA55 /* Bundle-Decoding.swift */,
 				2DE413C52251494800B4DA55 /* enemy-types.json */,
@@ -154,6 +157,7 @@
 				2DE413A122513A0000B4DA55 /* GameScene.sks in Resources */,
 				2DE413B722513AEA00B4DA55 /* Starfield.sks in Resources */,
 				2DE413AC22513A0300B4DA55 /* Assets.xcassets in Resources */,
+				2DE413C922515B5B00B4DA55 /* Explosion.sks in Resources */,
 				2DE413C62251494800B4DA55 /* waves.json in Resources */,
 				2DE413AF22513A0300B4DA55 /* LaunchScreen.storyboard in Resources */,
 			);
